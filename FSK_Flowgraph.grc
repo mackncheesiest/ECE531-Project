@@ -478,7 +478,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(728, 1452)</value>
+      <value>(776, 1308)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -580,7 +580,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(752, 1264)</value>
+      <value>(800, 1120)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -737,7 +737,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(728, 1028)</value>
+      <value>(776, 884)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -808,7 +808,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(984, 1436)</value>
+      <value>(1032, 1292)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1021,7 +1021,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(992, 940)</value>
+      <value>(1040, 796)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1198,7 +1198,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(504, 1028)</value>
+      <value>(552, 884)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1352,7 +1352,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(992, 1020)</value>
+      <value>(1040, 876)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1699,7 +1699,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(984, 1252)</value>
+      <value>(1032, 1108)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -2748,7 +2748,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1016, 1100)</value>
+      <value>(1064, 956)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -3115,7 +3115,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(984, 1340)</value>
+      <value>(1032, 1196)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -3482,7 +3482,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1224, 1420)</value>
+      <value>(1272, 1276)</value>
     </param>
     <param>
       <key>gui_hint</key>
