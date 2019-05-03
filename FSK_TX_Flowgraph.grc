@@ -26,7 +26,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -97,7 +97,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -124,7 +124,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -151,7 +151,34 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(776, 12)</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>int_scale</value>
+    </param>
+    <param>
+      <key>value</key>
+      <value>4096</value>
+    </param>
+  </block>
+  <block>
+    <key>variable</key>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -304,7 +331,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -343,7 +370,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -480,7 +507,7 @@
     <key>analog_sig_source_x</key>
     <param>
       <key>amp</key>
-      <value>2048</value>
+      <value>int_scale</value>
     </param>
     <param>
       <key>alias</key>
@@ -543,7 +570,7 @@
     <key>analog_sig_source_x</key>
     <param>
       <key>amp</key>
-      <value>2048</value>
+      <value>int_scale</value>
     </param>
     <param>
       <key>alias</key>
@@ -559,7 +586,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>freq</key>
@@ -724,7 +751,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1168, 544)</value>
+      <value>(1160, 544)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -763,7 +790,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -787,7 +814,7 @@
     </param>
     <param>
       <key>scale</key>
-      <value>1</value>
+      <value>int_scale</value>
     </param>
     <param>
       <key>vlen</key>
@@ -810,7 +837,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -834,7 +861,7 @@
     </param>
     <param>
       <key>scale</key>
-      <value>1</value>
+      <value>int_scale</value>
     </param>
     <param>
       <key>vlen</key>
@@ -857,7 +884,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -881,7 +908,7 @@
     </param>
     <param>
       <key>scale</key>
-      <value>1</value>
+      <value>int_scale</value>
     </param>
     <param>
       <key>vlen</key>
@@ -904,7 +931,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -951,7 +978,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1002,7 +1029,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1053,11 +1080,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(368, 220)</value>
+      <value>(744, 124)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1104,11 +1131,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(672, 116)</value>
+      <value>(288, 220)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1116,7 +1143,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>blocks_stream_to_tagged_stream_0</value>
+      <value>blocks_stream_to_tagged_stream_0_0</value>
     </param>
     <param>
       <key>len_tag_key</key>
@@ -1132,7 +1159,7 @@
     </param>
     <param>
       <key>packet_len</key>
-      <value>vlen</value>
+      <value>vlen * interpolation</value>
     </param>
     <param>
       <key>type</key>
@@ -1159,7 +1186,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1210,11 +1237,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(208, 220)</value>
+      <value>(584, 124)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1265,7 +1292,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1324,11 +1351,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(472, 124)</value>
+      <value>(416, 124)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1442,7 +1469,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1344, 508)</value>
+      <value>(1352, 508)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1470,7 +1497,7 @@
     </param>
     <param>
       <key>samp_rate</key>
-      <value>samp_rate * interpolation</value>
+      <value>samp_rate*interpolation</value>
     </param>
     <param>
       <key>width</key>
@@ -1513,7 +1540,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1880,7 +1907,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -2247,7 +2274,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -2686,21 +2713,21 @@
   </connection>
   <connection>
     <source_block_id>blocks_repeat_0</source_block_id>
+    <sink_block_id>blocks_stream_to_tagged_stream_0_0</sink_block_id>
+    <source_key>0</source_key>
+    <sink_key>0</sink_key>
+  </connection>
+  <connection>
+    <source_block_id>blocks_stream_to_tagged_stream_0_0</source_block_id>
     <sink_block_id>blocks_multiply_xx_1_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>blocks_repeat_0</source_block_id>
+    <source_block_id>blocks_stream_to_tagged_stream_0_0</source_block_id>
     <sink_block_id>blocks_sub_xx_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>1</sink_key>
-  </connection>
-  <connection>
-    <source_block_id>blocks_stream_to_tagged_stream_0</source_block_id>
-    <sink_block_id>blocks_throttle_0</sink_block_id>
-    <source_key>0</source_key>
-    <sink_key>0</sink_key>
   </connection>
   <connection>
     <source_block_id>blocks_sub_xx_0</source_block_id>
@@ -2722,7 +2749,7 @@
   </connection>
   <connection>
     <source_block_id>blocks_vector_to_stream_0</source_block_id>
-    <sink_block_id>blocks_stream_to_tagged_stream_0</sink_block_id>
+    <sink_block_id>blocks_throttle_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
